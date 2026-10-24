@@ -10,6 +10,24 @@ Production:
 - API: <https://api.mytasktrackeronline.ru>
 - Health check: <https://api.mytasktrackeronline.ru/health>
 
+## Screenshots
+
+### Landing page
+
+![Task Tracker landing page](docs/screenshots/landing-page.png)
+
+![Task Tracker landing page in dark theme](docs/screenshots/landing-page-dark.png)
+
+### Kanban board
+
+![Task Tracker Kanban board](docs/screenshots/board.png)
+
+### Dashboard and calendar
+
+![Task Tracker dashboard](docs/screenshots/dashboard.png)
+
+![Task Tracker calendar](docs/screenshots/calendar.png)
+
 ## Current Features
 
 ### Backend
